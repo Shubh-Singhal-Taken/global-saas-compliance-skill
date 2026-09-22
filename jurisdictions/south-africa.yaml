@@ -1,0 +1,8 @@
+jurisdiction: ZA
+name: South Africa
+primary_domains: [PRIVACY_DATA_PROTECTION]
+instruments:
+  - name: POPIA
+    authority: Information Regulator
+    source: https://inforegulator.org.za/
+    status: needs-verification
