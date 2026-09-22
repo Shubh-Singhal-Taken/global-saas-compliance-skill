@@ -1,0 +1,16 @@
+jurisdiction: IN
+name: India
+primary_domains: [PRIVACY_DATA_PROTECTION, CYBERSECURITY]
+instruments:
+  - name: Digital Personal Data Protection Act, 2023
+    authority: MeitY
+    source: https://www.meity.gov.in/
+    status: needs-verification
+  - name: Digital Personal Data Protection Rules, 2025
+    authority: MeitY
+    source: https://www.meity.gov.in/
+    status: needs-verification
+  - name: CERT-In Directions under Section 70B
+    authority: CERT-In
+    source: https://www.cert-in.org.in/
+    status: needs-verification
