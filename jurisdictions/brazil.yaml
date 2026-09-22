@@ -1,0 +1,8 @@
+jurisdiction: BR
+name: Brazil
+primary_domains: [PRIVACY_DATA_PROTECTION]
+instruments:
+  - name: LGPD
+    authority: ANPD
+    source: https://www.gov.br/anpd/
+    status: needs-verification
