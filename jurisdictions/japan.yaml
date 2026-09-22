@@ -1,0 +1,8 @@
+jurisdiction: JP
+name: Japan
+primary_domains: [PRIVACY_DATA_PROTECTION]
+instruments:
+  - name: Act on the Protection of Personal Information
+    authority: PPC Japan
+    source: https://www.ppc.go.jp/
+    status: needs-verification
