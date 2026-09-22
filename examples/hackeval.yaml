@@ -1,0 +1,11 @@
+product_name: HackEval
+version: example
+product_type: [web-saas, developer-platform, ai-assisted]
+served_jurisdictions: [IN, EU, UK, US]
+customer_types: [hackathon-organisers, universities, participants]
+features: [accounts, file-upload, repository-integration, ai-evaluation, plagiarism-analysis]
+data_categories: [identity, contact, submissions, source-code, repository-metadata]
+data_subjects: [students, developers, judges]
+processing_roles: [controller-or-processor]
+ai_models: [example-llm]
+payment_model: subscription
