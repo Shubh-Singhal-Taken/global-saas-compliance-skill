@@ -1,0 +1,10 @@
+jurisdiction: AE
+name: United Arab Emirates
+primary_domains: [PRIVACY_DATA_PROTECTION]
+instruments:
+  - name: UAE federal personal data protection framework
+    authority: UAE government
+    source: https://u.ae/
+    status: needs-verification
+notes:
+  - Check federal law plus free-zone and sector rules.
