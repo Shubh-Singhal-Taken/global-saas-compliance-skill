@@ -1,0 +1,4 @@
+# Changelog
+
+## 0.1.0 — 2026-09-22
+Initial public release of the Global SaaS Compliance Skill.
