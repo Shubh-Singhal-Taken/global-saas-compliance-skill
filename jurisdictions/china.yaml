@@ -1,0 +1,16 @@
+jurisdiction: CN
+name: China
+primary_domains: [PRIVACY_DATA_PROTECTION, CYBERSECURITY]
+instruments:
+  - name: Personal Information Protection Law
+    authority: CAC
+    source: https://www.cac.gov.cn/
+    status: needs-verification
+  - name: Data Security Law
+    authority: CAC
+    source: https://www.cac.gov.cn/
+    status: needs-verification
+  - name: Cybersecurity Law
+    authority: CAC
+    source: https://www.cac.gov.cn/
+    status: needs-verification
