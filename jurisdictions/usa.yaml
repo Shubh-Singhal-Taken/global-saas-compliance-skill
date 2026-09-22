@@ -1,0 +1,26 @@
+jurisdiction: US
+name: United States
+primary_domains: [PRIVACY_DATA_PROTECTION, MARKETING_COMMUNICATIONS, CONSUMER_SAAS]
+instruments:
+  - name: CCPA/CPRA
+    authority: California privacy regulator
+    source: https://cppa.ca.gov/
+    status: needs-verification
+  - name: FTC Act
+    authority: Federal Trade Commission
+    source: https://www.ftc.gov/
+    status: needs-verification
+  - name: COPPA
+    authority: Federal Trade Commission
+    source: https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa
+    status: conditional
+  - name: CAN-SPAM
+    authority: Federal Trade Commission
+    source: https://www.ftc.gov/business-guidance/resources/can-spam-act-compliance-guide-business
+    status: conditional
+  - name: TCPA
+    authority: Federal Communications Commission
+    source: https://www.fcc.gov/
+    status: conditional
+notes:
+  - Maintain a current state-by-state privacy applicability matrix.
