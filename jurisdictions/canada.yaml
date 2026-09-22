@@ -1,0 +1,10 @@
+jurisdiction: CA
+name: Canada
+primary_domains: [PRIVACY_DATA_PROTECTION]
+instruments:
+  - name: PIPEDA
+    authority: Office of the Privacy Commissioner of Canada
+    source: https://www.priv.gc.ca/
+    status: needs-verification
+notes:
+  - Check provincial privacy laws separately.
