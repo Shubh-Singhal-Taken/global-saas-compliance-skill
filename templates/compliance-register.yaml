@@ -1,0 +1,20 @@
+items:
+  - requirement_id: ""
+    jurisdiction: ""
+    instrument: ""
+    category: ""
+    applies: conditional
+    trigger: ""
+    product_scope: []
+    effective_date: null
+    enforcement_date: null
+    source_url: ""
+    source_checked_at: null
+    authority: ""
+    confidence: medium
+    rationale: ""
+    controls: []
+    evidence: []
+    owner: null
+    status: needs-verification
+    notes: ""
