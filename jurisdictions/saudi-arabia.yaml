@@ -1,0 +1,8 @@
+jurisdiction: SA
+name: Saudi Arabia
+primary_domains: [PRIVACY_DATA_PROTECTION]
+instruments:
+  - name: Personal Data Protection Law
+    authority: SDAIA
+    source: https://dgp.sdaia.gov.sa/
+    status: needs-verification
