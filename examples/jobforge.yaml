@@ -1,0 +1,11 @@
+product_name: JobForge
+version: example
+product_type: [web-saas, recruitment-platform, ai-assisted]
+served_jurisdictions: [IN, EU, UK, US]
+customer_types: [consumer, recruiter, employer]
+features: [accounts, resumes, job-search, recommendations, ai-processing, email]
+data_categories: [identity, contact, resume, education, employment, inferred-profile]
+data_subjects: [job-seekers, recruiters]
+processing_roles: [controller-or-fiduciary]
+ai_models: [example-llm]
+payment_model: subscription
