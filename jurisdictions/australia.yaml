@@ -1,0 +1,8 @@
+jurisdiction: AU
+name: Australia
+primary_domains: [PRIVACY_DATA_PROTECTION]
+instruments:
+  - name: Privacy Act 1988 / Australian Privacy Principles
+    authority: OAIC
+    source: https://www.oaic.gov.au/privacy/australian-privacy-principles
+    status: needs-verification
