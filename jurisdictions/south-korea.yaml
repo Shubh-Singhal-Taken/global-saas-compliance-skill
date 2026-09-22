@@ -1,0 +1,8 @@
+jurisdiction: KR
+name: South Korea
+primary_domains: [PRIVACY_DATA_PROTECTION]
+instruments:
+  - name: Personal Information Protection Act
+    authority: PIPC
+    source: https://www.pipc.go.kr/
+    status: needs-verification
