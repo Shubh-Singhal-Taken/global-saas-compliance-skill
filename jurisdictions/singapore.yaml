@@ -1,0 +1,8 @@
+jurisdiction: SG
+name: Singapore
+primary_domains: [PRIVACY_DATA_PROTECTION]
+instruments:
+  - name: Personal Data Protection Act
+    authority: PDPC
+    source: https://www.pdpc.gov.sg/
+    status: needs-verification
